@@ -4,7 +4,6 @@ title:git tutorial
 description:git test
 tag:文档
 ---
-[TOC]
 
 
 # 创建版本库
