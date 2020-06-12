@@ -1,6 +1,14 @@
+---
+layout:post
+title:git tutorial
+description:git test
+tag:文档
+---
 [TOC]
 
+
 # 创建版本库
+
 > 版本库又名仓库，英文名repository
 
 ## 1.初始化 
